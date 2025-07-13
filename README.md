@@ -19,7 +19,7 @@ This project demonstrates a simple **keyword spotting** demo using a TensorFlow 
 | `requirements.txt` | Dependencies (TensorFlow, NumPy, SciPy) |
 
 ## 🧪 Demo
-
+[Link to Colab](https://colab.research.google.com/drive/1vnOZg-cGDHnm5m8dj286EXZu7dwqrXlW?usp=sharing)
 <img src="assets/demo.gif" width="600" alt="demo" />
 
 ## 🚀 Getting Started
